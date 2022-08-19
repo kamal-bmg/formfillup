@@ -28,8 +28,38 @@
         <hr>
 
         <div>
-            <footer>
-                thank you for sharing
+
+            <footer style="background-color: gold">
+
+             <div class="row">
+                   <div class="col">
+                        <div class="com-md-4">
+                            <pre>iuhg</pre>
+                            <pre>lkjhg</pre>
+                            <pre>lkjhgf</pre>
+                        </div>
+                   </div>
+
+                   <div class="col">
+                        <div class="com-md-4">
+                            <pre>iuhg</pre>
+                            <pre>lkjhg</pre>
+                            <pre>lkjhgf</pre>
+                        </div>
+                    </div>
+
+                     <div class="col">
+                            <div class="com-md-4">
+                                <pre>iuhg</pre>
+                                <pre>lkjhg</pre>
+                                <pre>lkjhgf</pre>
+                            </div>
+                    </div>
+                </div>
+
+
+
+
             </footer>
         </div>
     </div>
